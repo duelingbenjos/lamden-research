@@ -1,0 +1,15 @@
+[
+	{ "title": "PancakeSwap", "address": "0x10ED43C718714eb63d5aA57B78B54704E256024E" },
+	{
+		"title": "PancakeSwap V2: TAU 3",
+		"address": "0x104D34E23b3fBDc36c3aB3514e2FA7430d2d9e8E"
+	},
+	{
+		"title": "Pancake LPs",
+		"address": "0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE"
+	},
+	{
+		"title" : "PancakeSwap Router, V2",
+		"address" : "0xf18deaad0bd8b957375f57fc42ead5f84f2eec1294451b4505e460868ed804cd"
+	}
+]

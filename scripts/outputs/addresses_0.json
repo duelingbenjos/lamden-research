@@ -1,0 +1,18 @@
+[
+	{
+		"address": { "address": "0x6f2693c510c0aed90839b4d2c4b687e346048ab7", "title": "Lamden Token Dump Wallet #2" },
+		"scanned": true,
+		"level": 0,
+		"tokens_withdrew_to": [],
+		"tokens_sent_to": [
+			{ "address": "0x104d34e23b3fbdc36c3ab3514e2fa7430d2d9e8e", "title": "PancakeSwap V2: TAU 3" },
+			{ "address": "0x425d537624022e0f30092c538b98c7a2bf4bc576", "title": "Unknown" }
+		],
+		"tokens_received_from": [
+			{ "address": "0xa3ecc09e7a1ad66ee28a7abaac4577a1f8be636d", "title": "Lamden Transport hub ?" },
+			{ "address": "0xdfa84d1cf69e2488c44d8c29dd08954f0a7a50e2", "title": "Lamden Intermediary Wallet #1" },
+			{ "address": "0x14fd8832a8dadf9706c2551e505acbad69570a0d", "title": "Unknown" }
+		],
+		"withdrawals": []
+	}
+]
